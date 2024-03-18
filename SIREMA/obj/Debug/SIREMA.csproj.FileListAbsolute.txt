@@ -1,0 +1,31 @@
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\bin\Debug\SIREMA.exe.config
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\bin\Debug\SIREMA.exe
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\bin\Debug\SIREMA.pdb
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\bin\Debug\MySql.Data.dll
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.AssemblyReference.cache
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.Form1.resources
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.Properties.Resources.resources
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.GenerateResource.cache
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.CoreCompileInputs.cache
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.Up2Date
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.exe
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.pdb
+D:\coolyeah\semester 4\PBO ASTRID 2D\SIREMA\SIREMA\obj\Debug\SIREMA.antarmuka.ProgramStudi_Form.resources
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\bin\Debug\SIREMA.exe.config
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\bin\Debug\SIREMA.exe
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\bin\Debug\SIREMA.pdb
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\bin\Debug\MySql.Data.dll
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.AssemblyReference.cache
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.SuggestedBindingRedirects.cache
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.Form1.resources
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.antarmuka.ProgramStudi_Form.resources
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.Properties.Resources.resources
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.GenerateResource.cache
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.CoreCompileInputs.cache
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.csproj.CopyComplete
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.exe
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.pdb
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\bin\Debug\Akses_File.dll
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\bin\Debug\Akses_File.pdb
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.antarmuka.DashboardForm.resources
+F:\Kuliah\Semester 4\PBO\pemrograman-c#\SIREMANEW\SIREMA\SIREMA\obj\Debug\SIREMA.antarmuka.LoginForm.resources
